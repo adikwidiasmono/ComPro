@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Company Profile</string>
+
+    <string name="home">Home</string>
+    <string name="products">Products</string>
+    <string name="clients">Clients</string>
+    <string name="contact_us">Contact Us</string>
+
+
+</resources>
